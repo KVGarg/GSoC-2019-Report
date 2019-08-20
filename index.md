@@ -25,18 +25,18 @@ phase:
 bio: >
   I am a final year student studying Computer Science and Engineering at
   Chandigarh College of Engineering and Technology, Chandigarh. I
-  participated in GSoC'19 and worked with [coala](http://coala.io) to enhance
-  the architecture of there websites which includes both front-end as well as
-  back-end.
-  My project was dedicated to enhance the coala websites architecture which
-  included adding new features to the [coala Webservices](https://gitlab.com/coala/landing)
-  by defining *cron jobs* for each of the new feature being added so the data
-  stay up-to-date. And, that new added enhancements are too be used in the
-  [coala Community](https://github.com/coala/community) to make the work
-  easier for the contributors. Apart from implementing new features, one of the
-  major task was to add a nice UI/UX Design to the *coala Community* website,
-  with some minor enhancements as well as improvements to the *[coala
-   Projects](https://github.com/coala/projects)*
+  participated in GSoC'19 with [coala](http://coala.io) open source
+  organization.
+  
+  My project aimed to increase the usability and easiness for all the
+  open-source enthusiasts by enhancing and improving the coala [Community
+  website](https://community.coala.io/) as well as coala [Projects website
+  ](https://projects.coala.io/) for newcomers, developers as well as for the
+  other communities. The major focus of this project was to enhance the
+  websites architecture, with addition of new API endpoints in coala
+  [Webservices](https://webservices.coala.io/). *CRON Jobs* have been
+  defined in coala Webservices which will make sure that the data related to
+   the organization is up-to-date, which will be used in coala websites.
 social:
   - GitHub:
       - username: KVGarg
@@ -185,7 +185,7 @@ activity:
       - repo: landing
       - link: https://gitlab.com/coala/landing/merge_requests/74/diffs?commit_id=22aef2899cc70e852c0de8e6fa101a1a4f37399a
       - details: >
-        gamification/: Migrate app from community repo
+         gamification/: Migrate app from community repo
 
   - 23:
       - repo: landing

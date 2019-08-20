@@ -30,7 +30,7 @@
                         <div class="card-content">
                             <h5 class="light no-margin"><a href="{{page.organisation_link}}">{{ page.organisation }}</a></h5>
                             <h3 class="light">{{ page.student }}</h3>
-                            <p>{{page.bio | markdownify}}</p>
+                            <p style="text-align: justify">{{page.bio | markdownify}}</p>
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,9 @@
                         <div class="card-content">
                             <div class="center"><h4 class="light no-margin">GSoC Blog</h4></div>
                             <br>
-                            <div class="center"><a class="blog-link" href="{{ page.blog }}">{{ page.blog }}</a></div>
+                            <div class="center" style="word-break: break-word;">
+                            <a class="blog-link" href="{{ page.blog }}">{{ page.blog }}</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -67,7 +69,7 @@
                             <br>
                             <div class="row no-margin center">
                                 <div class="col m3"><i class="fa fa-envelope-o"></i></div>
-                                <div class="col m9"><a href="mailto:{{ page.email }}">{{ page.email }}</a></div>
+                                <div class="col m9" style="word-break: break-word;"><a href="mailto:{{ page.email }}">{{ page.email }}</a></div>
                             </div>
 
                         </div>
