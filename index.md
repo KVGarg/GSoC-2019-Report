@@ -495,13 +495,13 @@ activity:
 
   - 74:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/735/commits/6f45bca4ba96f3524877aa6dc31db65102620ead
+      - link: https://github.com/coala/projects/pull/735/commits/789157a82d78859300188fa0f7bc509d53756e46
       - details: >
          report.md: Improve layout for all screens
 
   - 75:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/735/commits/f4be2df2b7c0dabe308201001a469d3d02705e6a
+      - link: https://github.com/coala/projects/pull/735/commits/d53a48e8cc666bcd11958f77bc05b48d81b1d980
       - details: >
          students.html: Add a tab displaying GSoC Students
 
