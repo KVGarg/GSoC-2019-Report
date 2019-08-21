@@ -25,18 +25,18 @@ phase:
 bio: >
   I am a final year student studying Computer Science and Engineering at
   Chandigarh College of Engineering and Technology, Chandigarh. I
-  participated in GSoC'19 with [coala](http://coala.io) open source
+  participated in GSoC'19 with [coala](http://coala.io) open-source
   organization.
   
   My project aimed to increase the usability and easiness for all the
   open-source enthusiasts by enhancing and improving the coala [Community
-  website](https://community.coala.io/) as well as coala [Projects website
-  ](https://projects.coala.io/) for newcomers, developers as well as for the
+  website](https://community.coala.io/) as well as coala [Projects website](https://projects.coala.io/) 
+  for newcomers, developers as well as for the
   other communities. The major focus of this project was to enhance the
-  websites architecture, with addition of new API endpoints in coala
+  website's architecture, with the addition of new API endpoints in coala
   [Webservices](https://webservices.coala.io/). *CRON Jobs* have been
   defined in coala Webservices which will make sure that the data related to
-   the organization is up-to-date, which will be used in coala websites.
+  the organization is up-to-date, which will be used in coala websites.
 social:
   - GitHub:
       - username: KVGarg
@@ -528,10 +528,10 @@ activity:
    1. Fix the existing issues with the runnable cron jobs 
    2. Added cron jobs for fetching
       1. users feedback,
-      2. open source google form available to all developers,
+      2. open-source google form available to all developers,
       3. calendar events,
-      4. requests of contributors who participated in GSoC with organization
-       and wanted to add there project details to the database, and
+      4. requests of contributors who participated in GSoC with the organization
+       and wanted to add their project details to the database, and
       5. requests of developers who wanted to participate as a mentor in the
        upcoming Google Summer of Code,
 
@@ -540,12 +540,12 @@ activity:
       1. fetching contributors geolocation;
       2. validating the access token, used for logging-in onto the coala
        Community website;
-      3. fetching the contributors activities data like issue, merge requests
-      , commits related activities;
+      3. fetching the contributor's activities data like the issue, merge
+       requests, commits related activities;
       4. users who want to join the organization;
-      5. processing the contributors request who want to get assigned on an
+      5. processing the contributor's request who want to get assigned on an
        issue; and
-      6. processing the newcomers request who wanted to get promoted to the
+      6. processing the newcomer's request who wanted to get promoted to the
        developer role;
    4. Update the organization teams information weekly
    5. Migrated following apps from coala Community repository -
@@ -563,23 +563,23 @@ activity:
     enhancements added to the webservices.
 
 2. Enhancements made in coala Community Website:
-   1. Created a project specific logo, which can be re-used by any open
-   -source community
+   1. Created a project-specific logo, which can be re-used by any open-source
+   community
    2. Re-designed the homepage, by adding a new UI/UX design to it.
-   3. Merged up the build information and build logs web-pages, to one web
-   -page with a nice UI/UX design added to that web-page.
+   3. Merged up the build information and build logs web-pages, to one web-page
+   with a nice UI/UX design added to that web-page.
    4. Re-designed the Google Code-In students web-page, by adding a new UI/UX
     design to it.
-   5. Re-designed the contributors web-page, by adding a new UI/UX design to
-    it and with a search-bar to search for a contrib among thousands of
+   5. Re-designed the contributor's web-page, by adding a new UI/UX design to
+    it and with a search bar to search for a contributor among thousands of
     contributors.
    6. Re-designed the meta-review web-page, by adding a new UI/UX design to
     it and with a search-bar to search for a single contributor.
    7. Re-designed the gamification leaderboard web-page, by adding a new UI/UX
-    design to it and with a search-bar as well as some filters.
+    design to it and with a search bar as well as some filters.
    8. Added Netlify OAuth for getting access to the community forms like
-    promotion request form, getting assigned to an issue etc.
-   9. Added following netlify forms to website -
+    promotion request form, getting assigned to an issue, etc.
+   9. Added following netlify forms to the website -
       1. organization join form,
       2. calendar event uploader form,
       3. uploading information about open source organizations forms like any
@@ -589,12 +589,12 @@ activity:
       6. "want to get assigned on an issue?" form
       7. promotion to developer role form, and
       8. a feedback form
-   10. Added a pop-up, to display all the contributor activities (or say, all
+   10. Added a pop-up, to display all the contributor activities (or say all
     the contributions details) in the form of charts.
    11. Remove the usage of implemented OpenHub models in the repository and
     use the OpenHub-Django pypi package instead.
-   12. Added a web-page for displaying the organization teams to the logged
-   -in users.
+   12. Added a web-page for displaying the organization teams to the logged-in
+   users.
    13. Re-designed the web-page that lists-out all the inactive issues across
     the organization, by adding a new UI/UX design to it and showing the
     issue related details.
@@ -602,7 +602,7 @@ activity:
     activity across the organization, by adding a new UI/UX design to it and
     showing the issue related details.
    15. Added a web-page for displaying the organization mentors for the
-    upcoming summer/winter programs like GSoC, GCI etc.
+    upcoming summer/winter programs like GSoC, GCI, etc.
    16. Updated the repository README.md to mention about the new enhancements
     made and how to use them? 
 
@@ -614,32 +614,32 @@ activity:
    4. Added a tab for displaying all the calendar events by fetching it
     from coala Webservices.
    5. Fetch the related issues state from coala Webservices for a chosen project
-    and change the css class based on that state.
+    and change the CSS class based on that state.
    6. Re-named the projects report web-page to a web-page which displays all
     the past years GSoC students. The students who've participated with coala
     in GSoC in previous years. This new web-page now has a respective tab in
-    navbar instead of a inline-link.
+    navbar instead of an inline-link.
    7. Changed the tabs display to a navbar i.e. added a navbar to the website
     for navigating around the web-pages.
 
-Apart from this, I've contributes to [openhub-django](https://github.com/sks444/openhub-django/)
+Apart from this, I've contributed to the [openhub-django](https://github.com/sks444/openhub-django/)
 repository, so that it can get ready to be used in the coala Community
-repository, to get the details about the oragnization from the OpenHub. And
-, added necessary documentation(or say, information) for contributors in the
+repository, to get the details about the organization from the OpenHub. And,
+added necessary documentation(or say information) for contributors in the
 [Newcomers' Guide](https://coala.io/newcomer) mentioning about the forms
 available on the coala Community website.
 
 #### Challenges
 
 Most things went smoothly. The biggest challenge for me was to design the
-mockup designs and the logo for the coala Community website. As the
-designs were to be made keeping in mind, that the repository is a re
--usable repository i.e. any organization can fork this repo and use it
-without making any major changes in the code. So, the logo must symbolize all
-the open-source communities. And, the another challenge was to decide the
-validation checks which will be performed to check whether the form entry (the
-form submitted by user on coala Community website) is valid or not. But I am
-grateful to my helpful mentors for supporting and making the tasks easier.
+web-pages mockup designs and the logo for the coala community website because
+the community repository is a re-usable repository i.e. any organization can
+fork this repo and use it without making any major changes in the code. So, the
+logo must symbolize all the open-source communities. And, another challenge was
+to decide the validation checks which will be implemented to check whether the
+form entry (the form submitted by a user on coala Community website) is valid
+or not. But I am grateful to my helpful mentors for supporting me and making
+the tasks easier.
 
 #### Work to be done
 
@@ -647,5 +647,5 @@ Just left with to make usage of coala Webservices with coala Community website.
 Currently, the data is being fetched from a repository which contains the
 static data about the organization. And, to use coala Webservices with
 Community website, all the created merge requests in the repositories should get
-merged so that we can fetch the realtime-data of the oragnization and display
+merged so that we can fetch the realtime-data of the organization and display
 it on the website
