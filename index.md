@@ -14,8 +14,7 @@ project_link: https://summerofcode.withgoogle.com/projects/#5279011071066112
 tarball: https://github.com/KVGarg/GSoC-2019-Report/raw/master/kvgarg_coala.tar
 sha256sum: 23ef573e8e6fa3522c616ffc974673abf59989503d7cd15494eaef0d32f1f606
 mentors: >
-  [Srikrishna Singh](https://github.com/sks444),
-  [Saurav Singh](https://github.com/damngamerz) &
+  [Srikrishna Singh](https://github.com/sks444) &
   [Marcos Gómez](https://github.com/margobra8)
 phase:
   - Bonding: https://gitlab.com/coala/GSoC/gsoc-2019/milestones/14
@@ -465,49 +464,49 @@ activity:
 
   - 69:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/729/commits/4e9e4b23d939ec1a97cd43d4ced65ade90b64bdf
+      - link: https://github.com/coala/projects/pull/729/commits/a935711eb0219d38bc73b93882f91e67de8ed379
       - details: >
          app.js: Get mentors from Webservices
 
   - 70:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/730/commits/c4fdb116de1603ee934031af9c74f56e3918852d
+      - link: https://github.com/coala/projects/pull/730/commits/4f4ef06343380406b1178296bd9b9723e7e07744
       - details: >
          tabs: Fetch and Display forms from webservices
 
   - 71:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/731/commits/ea8c43d48291282073c628ae64076710ae2e64d2
+      - link: https://github.com/coala/projects/pull/731/commits/7623f54b1f564f613db90f2fca895b9e051d99d1
       - details: >
          projects.html: Add filters for searching projects
 
   - 72:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/732/commits/414ffb3a119efd37f3af2e5ae6805d0b9f18060b
+      - link: https://github.com/coala/projects/pull/732/commits/353bed9af50c44e81653631216a07a9f86aa3bfe
       - details: >
-         events.html: Fetch and Display events from webservices
+         events.html: Get & Show events from webservices
 
   - 73:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/733/commits/4a593a5429043b93a6c72f82d3f877bdc0eeb604
+      - link: https://github.com/coala/projects/pull/733/commits/a87bb704a966601785f7a60f8338e0b0260f2073
       - details: >
-         projects.html: Get related issues states from webservices
+         projects.html: Get issues detail from webservices
 
   - 74:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/735/commits/789157a82d78859300188fa0f7bc509d53756e46
+      - link: https://github.com/coala/projects/pull/735/commits/d8f30ef32376ab81828dbff99ed86bb407332bbb
       - details: >
          report.md: Improve layout for all screens
 
   - 75:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/735/commits/d53a48e8cc666bcd11958f77bc05b48d81b1d980
+      - link: https://github.com/coala/projects/pull/735/commits/053c4171312ba5cca55a69c6e394ac788c7f0c66
       - details: >
          students.html: Add a tab displaying GSoC Students
 
   - 76:
       - repo: projects
-      - link: https://github.com/coala/projects/pull/736/commits/ea05a5b3dda2517e10b8ac48b9cffdc255f070e0
+      - link: https://github.com/coala/projects/pull/736/commits/77d91e59445abe2395620668a4529ee3db8c899f
       - details: >
          index.html: Add a navbar
 
