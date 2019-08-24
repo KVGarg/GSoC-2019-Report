@@ -55,7 +55,7 @@ activity:
 
   - 1:
       - repo: cEPs
-      - link: https://github.com/coala/cEPs/pull/186/commits
+      - link: https://github.com/coala/cEPs/pull/186/commits/9fd24777ce6f83fd2b5ec0d8e1df13365acfe574
       - details: >
          cEP-0032: Enhance Websites Architecture
 
