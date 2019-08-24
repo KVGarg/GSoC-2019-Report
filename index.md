@@ -24,7 +24,7 @@ phase:
 bio: >
   I am a final year student studying Computer Science and Engineering at
   Chandigarh College of Engineering and Technology, Chandigarh. I
-  participated in GSoC'19 with [coala](http://coala.io) open-source
+  participated in GSoC'19 with [coala](https://coala.io) open-source
   organization.
   
   My project aimed to increase the usability and easiness for all the
@@ -50,7 +50,7 @@ social:
       - username: KVGarg
       - link: https://www.openhub.net/accounts/KVGarg
 email: co16326.ccet@gmail.com
-blog: http://kvgsoc19.home.blog/
+blog: https://kvgsoc19.home.blog/
 activity:
 
   - 1:
